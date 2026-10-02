@@ -1,0 +1,102 @@
+Python Coding Questions — Roadmap
+
+1. Basic Python
+
+Hello World print karo.
+Do numbers ka sum nikalo.
+Number even ya odd check karo.
+Number positive, negative ya zero check karo.
+Teen numbers mein largest find karo.
+Celsius ko Fahrenheit mein convert karo.
+Simple calculator banao.
+Swap two variables.
+Number ka square/cube nikalo.
+User se input lekar greeting print karo.
+
+2. If-Else
+11. Leap year check karo.
+12. Voting eligibility check karo.
+13. Grade calculate karo.
+14. Triangle valid hai ya nahi check karo.
+15. Character vowel/consonant check karo.
+
+3. Loops
+16. 1–100 numbers print karo.
+17. 1–100 ka sum.
+18. Multiplication table.
+19. Factorial.
+20. Fibonacci series.
+21. Prime number check.
+22. 1–100 prime numbers.
+23. Number reverse karo.
+24. Palindrome number check.
+25. Armstrong number check.
+
+4. Strings
+26. String reverse karo.
+27. Palindrome string check karo.
+28. Vowels count karo.
+29. Words count karo.
+30. Character frequency find karo.
+31. Duplicate characters find karo.
+32. String mein largest word find karo.
+33. String se spaces remove karo.
+
+5. List
+34. List ka maximum/minimum find karo.
+35. List reverse karo.
+36. Duplicate elements remove karo.
+37. Second largest number find karo.
+38. List elements ka sum.
+39. Even/odd elements separate karo.
+40. Two lists merge karo.
+
+6. Dictionary
+41. Dictionary create/update/delete karo.
+42. Dictionary mein maximum value find karo.
+43. Word frequency counter banao.
+44. Two dictionaries merge karo.
+45. Keys aur values separately print karo.
+
+7. Functions
+46. Even/odd check function.
+47. Factorial function.
+48. Prime function.
+49. Fibonacci function.
+50. Calculator using functions.
+51. *args aur **kwargs ka use.
+52. Lambda function examples.
+
+8. OOP
+53. Class aur object banao.
+54. Constructor __init__.
+55. Instance variables.
+56. Instance methods.
+57. Inheritance.
+58. Multiple inheritance.
+59. Method overriding.
+60. Encapsulation.
+61. Abstraction using ABC.
+62. Polymorphism.
+63. ATM project.
+64. Bank management project.
+
+9. File Handling
+65. File read karo.
+66. File mein write karo.
+67. File append karo.
+68. Word/line/character count.
+69. CSV file read/write.
+
+10. Advanced / Interview
+70. Exception handling.
+71. List comprehension.
+72. Dictionary comprehension.
+73. Generator.
+74. Decorator.
+75. Recursion.
+76. map(), filter(), reduce().
+77. zip() ka use.
+78. Sorting with lambda.
+79. API se data fetch karna.
+80. Mini project: ATM / Banking / Employee Management / To-Do App.
